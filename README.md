@@ -75,28 +75,57 @@
 
 ## 🚀 Projects
 
-<p align="center">
-  <a href="https://github.com/dhanushpachabhatla/agentic-startup-assistant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhanushpachabhatla&repo=agentic-startup-assistant&theme=tokyonight">
-  </a>
-  <a href="https://github.com/dhanushpachabhatla/clinical-dss">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhanushpachabhatla&repo=clinical-dss&theme=tokyonight">
-  </a>
-  <a href="https://github.com/dhanushpachabhatla/mol-gen">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhanushpachabhatla&repo=mol-gen&theme=tokyonight">
-  </a>
-</p>
+### 🧪 Conditional Chemical Molecule Generation with Transformer GAN + RL
+
+A deep learning system for generating chemically valid molecules conditioned on desired properties, enabling targeted molecular design for drug discovery and material science.
+
+The model leverages representation learning over molecular structures (SMILES / graph-based encodings) and integrates conditional constraints such as physicochemical properties or functional requirements during generation.
+
+**Key features:**
+- Conditional generation based on user-specified molecular attributes
+- Validity and diversity optimization of generated molecules
+- Scalable pipeline for training and inference
+
+🔗 [Repo Link](https://github.com/dhanushpachabhatla/conditional-molecule-generation-using-Transformer-GAN-with-RL)
+
+---
+
+### 🤖 Agentic Research Startup Assistant
+
+An AI-powered agentic system that transforms startup ideas into structured, research-backed execution plans using LLMs, RAG, and multi-step reasoning.
+
+**Core architecture:**
+- Multi-agent workflow for task decomposition and execution
+- RAG-based retrieval for grounding responses in external knowledge
+- Tool integration for structured analysis (market research, validation, etc.)
+- Iterative reasoning and refinement of outputs
+
+🔗 [Repo Link](https://github.com/dhanushpachabhatla/Agentic-Startup-Research-Assistant)
+
+---
+
+### 🏥 Agentic Clinical Decision Support System
+
+A GenAI-based clinical assistant that transforms unstructured clinical data into structured, evidence-based insights for healthcare professionals.
+
+**Key components:**
+- Retrieval-Augmented Generation (RAG) for evidence-backed responses
+- Hybrid reasoning combining deterministic rules and LLM inference
+- Structured output generation for clinical interpretability
+- Focus on reducing cognitive load and improving diagnostic efficiency
+
+🔗 [Repo Link](https://github.com/dhanushpachabhatla/Agentic-Clinical-Decision-Support-System)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhanushpachabhatla&show_icons=true&theme=tokyonight&cache_seconds=1800" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=dhanushpachabhatla&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dhanushpachabhatla&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=dhanushpachabhatla&theme=tokyonight&hide_border=false" height="150"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushpachabhatla&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushpachabhatla&layout=compact&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
 </p>
 
 ---
