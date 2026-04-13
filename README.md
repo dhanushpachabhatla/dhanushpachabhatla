@@ -1,9 +1,17 @@
 <!-- ===== HEADER ===== -->
-<h1 align="center">Hi 👋, I'm Dhanush</h1>
-<h3 align="center">AI Engineer | LLMs • RAG • MLOps • Backend Systems</h3>
-<p align="center">
-  Building scalable AI systems from research → production
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Dhanush;AI+Engineer+%7C+Builder+%7C+Researcher" alt="Typing SVG"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=A960FF&center=true&vCenter=true&width=600&lines=LLMs+%E2%80%A2+RAG+%E2%80%A2+MLOps+%E2%80%A2+Backend+Systems;Building+scalable+AI+systems...;From+research+%E2%86%92+production+%F0%9F%9A%80" alt="Subtitle Typing SVG"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=&fontSize=0&animation=fadeIn"/>
+</div>
 
 ---
 
@@ -34,14 +42,22 @@
   </a>
 </p>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header"/>
+</div>
+
 ---
 
 ## 🧠 About Me
+
+<img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=00FF88&width=300&lines=Always+learning...;Always+building...;Always+shipping+%F0%9F%9A%80" alt="side typing"/>
 
 - 🎓 B.Tech CSE Student
 - 🤖 Focus: **LLMs, RAG, MLOps, Backend Systems**
 - ⚙️ Building end-to-end AI pipelines (Data → Model → Deployment)
 - 🚀 Goal: Production-ready intelligent systems
+
+<br clear="right"/>
 
 ---
 
@@ -174,4 +190,6 @@ A GenAI-based clinical assistant that transforms unstructured clinical data into
 
 ---
 
-⭐ Open to internships, collaborations, and AI projects
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn"/>
+</div>
