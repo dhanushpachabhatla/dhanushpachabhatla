@@ -20,6 +20,18 @@
   <a href="https://drive.google.com/file/d/1BDB4-j-XHYAM2IFJm97sQjMzUGE_1Vwm/view">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white">
   </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/kylobunn/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+  </a>
+  &nbsp;
+  <a href="https://www.geeksforgeeks.org/profile/pachabhatlr552">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
+  </a>
+  &nbsp;
+  <a href="https://www.kaggle.com/dhanushpachabhatla">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
+  </a>
 </p>
 
 ---
